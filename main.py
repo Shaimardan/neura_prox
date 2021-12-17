@@ -37,7 +37,7 @@ def plot2d():
     fa3.plot(e_ts_x, e_ts, "b-")
     plt.show()
 
-
+#sss
 def plot3D():
     ldr = dl.loader(3)
     mlp = MLP(ldr)
